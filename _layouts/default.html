@@ -5,6 +5,28 @@
     <meta name="viewport" content="width=device-wdith, initial-scale=1">
     <title> {{site.title}} | {{page.title}} </title>title
     <liml re="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  </head>head
+  </head>
+
+  <body>
+    <header clas="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+          <a class="page-link" href="{{ '/blog' | relative_url }}">Blog</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="custom-footer" style="text-align: center; margin-top: 2em; font-size: 0.85em; color: #888;">
+      © 2025 Sriwasin. Built with Jekyll + GitHub Pages.
+    </footer>
+  </body>
 </html>
   
