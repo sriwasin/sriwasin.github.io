@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fundamental Concepts
+permalink: /fund_concept
 ---
 
 # Fundamental Concepts
