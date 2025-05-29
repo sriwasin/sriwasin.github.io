@@ -1,5 +1,3 @@
 theme: minima
-title: Welcome to my blog
-description: This is the place where I catalogue all my projects of interests and other exploration
 plugins:
 - jekyll-feed
