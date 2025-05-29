@@ -3,3 +3,12 @@ desription: ""
 theme: minima
 plugins:
 - jekyll-feed
+navigation:
+- title: "Home"
+  url: "/"
+- title: "Fundamental Concepts"
+  url: "/fund_concept"
+- title: "Practical Application"
+  url: "/prac_app"
+- title: "GameDev Series"
+  url: "/game_dev"
