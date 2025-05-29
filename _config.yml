@@ -1,4 +1,5 @@
 title: "Wasin's Portfolio"
+desription: ""
 theme: minima
 plugins:
 - jekyll-feed
