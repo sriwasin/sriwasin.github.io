@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Practical Application
-permalink: /prac_app
 ---
 
 # Practical Application
