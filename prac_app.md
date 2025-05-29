@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Practical Application
+title: Fundamental Concepts
 ---
 
-# Practical Application
+# Fundamental Concepts
 
 <ul>
   {% for post in site.posts %}
