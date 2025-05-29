@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GameDev Series
+permalink: /game_dev
 ---
 
 # GameDev Series
