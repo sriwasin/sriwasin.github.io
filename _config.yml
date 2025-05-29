@@ -3,6 +3,7 @@ desription: ""
 theme: minima
 plugins:
 - jekyll-feed
+
 navigation:
 - title: "Home"
   url: "/"
